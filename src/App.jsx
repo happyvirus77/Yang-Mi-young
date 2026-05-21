@@ -27,7 +27,7 @@ import {
 } from "lucide-react";
 
 const videoUrls = {
-  hero: "https://www.w3schools.com/html/mov_bbb.mp4",
+  hero: `${import.meta.env.BASE_URL}videos/Yang-Mi-youg.mp4`,
   showreel: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
   projects: [
     "https://media.w3.org/2010/05/sintel/trailer.mp4",
